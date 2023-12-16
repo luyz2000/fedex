@@ -23,6 +23,11 @@ Or install it yourself as:
 ## Usage
 
 TODO: Write usage instructions here
+Just send correct credentials and params
+
+## Testing
+Only need a key and password for test fedex service, add in spec/fedex_spec.rb
+and run rspec for run test(no data persist)
 
 ## Development
 
